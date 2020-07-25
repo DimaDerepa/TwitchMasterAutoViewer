@@ -11,3 +11,6 @@ C:\Users\dimad\source\repos\twitchMaster\twitchMaster\bin\Debug\WebDriver.xml
 C:\Users\dimad\source\repos\twitchMaster\twitchMaster\obj\Debug\twitchMaster.csproj.CopyComplete
 C:\Users\dimad\source\repos\twitchMaster\twitchMaster\obj\Debug\twitchMaster.exe
 C:\Users\dimad\source\repos\twitchMaster\twitchMaster\obj\Debug\twitchMaster.pdb
+C:\Users\dimad\source\repos\twitchMaster\twitchMaster\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dimad\source\repos\twitchMaster\twitchMaster\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dimad\source\repos\twitchMaster\twitchMaster\bin\Debug\HtmlAgilityPack.xml
